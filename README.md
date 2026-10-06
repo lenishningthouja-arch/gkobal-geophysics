@@ -1,1 +1,1 @@
-# gkobal-geophysics
+# global-geophysics
